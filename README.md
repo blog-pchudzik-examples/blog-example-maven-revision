@@ -1,1 +1,0 @@
-# blog-example-maven-revision
